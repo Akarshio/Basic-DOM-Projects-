@@ -1,0 +1,9 @@
+.timer{
+    background-color: yellow;
+    display: grid;
+    place-items: center;
+    height: 10vh;
+    width: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+}
